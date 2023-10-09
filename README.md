@@ -1,2 +1,3 @@
 # projectpop
-TMDB data ingection project
+TMDB data ingection project.
+Author - Praful Landge
